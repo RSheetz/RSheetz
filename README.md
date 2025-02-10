@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RSheetz
 - 👀 I’m interested in PC-Games, Judo and Bike tours
-- 🌱 I’m currently studying Electrical engineering
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently working as a working student 
+- 💞️ I would like to work on the development of embedded systems, active directories, hardware development or something similar 
 - 📫 How to reach me sheetz.romankajetan@fh-swf.de or roman-sheetz@gmx.de
 
 <!---
